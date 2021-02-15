@@ -22,7 +22,7 @@ As this is a classification problem so we have used different classification alg
 
 Results:
 After training with the algorithms , we have validate our trained algorithms with test data set and measure the algorithms performance with
-godness of fit with confusion matrix for validation. 70% of data as training data set and 30% as training data set. The accuracy of predicting
+godness of fit with confusion matrix for validation. 70% of data as training data set and 30% as testing data set. The accuracy of predicting
 the survival rate using decision tree algorithm(79.8%) is high when compared with rest of the algorithms used for the given data set.
 
 Conclusion:
